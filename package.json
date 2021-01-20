@@ -13,7 +13,7 @@
     "bootstrap": "^4.1.1",
     "bootstrap-vue": "^2.0.0-rc.9",
     "echarts": "^4.2.1",
-    "gsap": "^2.1.2",
+    "gsap": "^3.6.0",
     "pixi-projection": "^0.2.6",
     "pixi.js": "^4.8.7",
     "vue": "^2.5.11"
